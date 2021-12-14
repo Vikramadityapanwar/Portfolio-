@@ -1,0 +1,7 @@
+body{background-color: purple; }
+label{color: tomato; font-family: serif;}
+nav{float:right;margin-top: 10px;font-size:24px ;}
+nav a{padding: 20px 20px;text-decoration: none;color: rgb(11, 238, 200);}
+header{box-shadow: powderblue 12px 0px 10px;}
+h3{margin-top: 100px;}
+.display{display: inline-block;} 
